@@ -41,7 +41,7 @@
 		DB22E1F61DD79CFA006F1670 = {
 			isa = PBXGroup;
 			children = (
-				DB22E2011DD79CFA006F1670 /* xcode-project-test */,
+				DB22E2011DD79CFA006F1670 /* src */,
 				DB22E2001DD79CFA006F1670 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,11 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DB22E2011DD79CFA006F1670 /* xcode-project-test */ = {
+		DB22E2011DD79CFA006F1670 /* src */ = {
 			isa = PBXGroup;
 			children = (
 				DB22E2021DD79CFA006F1670 /* main.c */,
 			);
+			name = src;
 			path = "xcode-project-test";
 			sourceTree = "<group>";
 		};
